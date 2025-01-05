@@ -1,0 +1,1 @@
+This repository contains a simple Scala class definition to illustrate the structure of Scala code.  It does not contain an uncommon bug. The purpose is to provide an example of clean Scala syntax, highlighting the basic use of classes, methods and val parameters.  This example can be used as a template for developing more complex Scala applications.
